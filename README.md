@@ -1,3 +1,4 @@
+live link:https://ammy198488.github.io/Huddle-landing-page-with-alternating-feature-blocks/
 # Huddle-landing-page-with-alternating-feature-blocks
 
 # Frontend Mentor - Huddle landing page with alternating feature blocks
